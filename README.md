@@ -26,10 +26,3 @@ A simple, lightweight, and nostalgic **Snake Game** built using Python's built-i
 
 ## 🛠 Prerequisites
 You only need Python installed on your system. No external libraries are required!
-
-## ⚙️ How to Run
-1. Clone the repository:
-```bash
-   git clone https://github.com/MTA2931/Snake-Game.git
-   
-
